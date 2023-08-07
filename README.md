@@ -1,1 +1,1 @@
-# Investigating the Potential Causal Link of Childhood-Onset Type 1 Diabetes with Psychiatric Disorders in Adolescence and Early Adulthood: A Nationwide Cohort and Genome-wide Mendelian Randomization Study![image](https://github.com/tmfmnk/Psychiatric-Disorders-in-Childhood-Type-1-Diabetes/assets/22473681/51ee71dd-981c-473e-ba39-32e8a105877c)
+# Investigating the Potential Causal Link of Childhood-Onset Type 1 Diabetes with Psychiatric Disorders in Adolescence and Early Adulthood: A Nationwide Cohort and Genome-wide Mendelian Randomization Study
