@@ -2,6 +2,7 @@
 
 This repository contains the complete analytical code of the study investigating potential causal pathways between childhood-onset type 1 diabetes and psychiatric disorders occurring later in life.
 
-In addition to this, the repository contains an interactive Excel file with the background data and the computation of external adjustment for unmeasured confounders < ahref="https://onlinelibrary.wiley.com/doi/10.1002/pds.1200">per Schneeweiss</a>.
+In addition to this, the repository contains an interactive Excel file with the background data and the computation of external adjustment for unmeasured confounders 
 
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/pds.1200">per Schneeweiss</a>.
 .
